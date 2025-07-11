@@ -1,4 +1,4 @@
-# ⚠️ Risk Analysis of Water Quality Data – EDA-Driven Insights
+# 📦WATER-POTABILITY-RISK-ANALYSIS-USING-SAFETY-BENCHMARKS
 
 This project focuses on **assessing the potential health risks** associated with water quality using an Exploratory Data Analysis (EDA) approach. Rather than building a machine learning model, we concentrated on analyzing how each water attribute aligns with real-world safety standards — and identified serious concerns in the dataset.
 
